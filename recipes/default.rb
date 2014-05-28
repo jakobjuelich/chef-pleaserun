@@ -7,4 +7,4 @@
 #
 
 gem_package 'pleaserun'
-require  'pleaserun/namespace'
+# require  'pleaserun/namespace'
