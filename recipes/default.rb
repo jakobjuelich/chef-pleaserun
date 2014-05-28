@@ -6,5 +6,5 @@
 # Copyright 2014, Paul Czarkowski, Rackspace
 #
 
-chef_gem 'pleaserun'
+gem_package 'pleaserun'
 require  'pleaserun/namespace'
